@@ -1,8 +1,3 @@
-<!doctype html>
-<html>
-  <head>
-    <title></title>
-  </head>
 <h1>Jin Wook Jeong</h1>
 
 <h5>Skills<h5>
