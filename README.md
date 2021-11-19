@@ -1,7 +1,6 @@
-<div aling="center"> 
+<div aling="center"><h1>Jin Wook Jeong</h1></div>
   
-<h1>Jin Wook Jeong</h1>
-  
+<div aling="center"  
 <h5>Skills<h5> 
 <div>  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
