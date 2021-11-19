@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
 
-<h5>Me</h5>
+<b><h5>Me</h5></b>
 jjh727098@gmail.com
 
 </div>
