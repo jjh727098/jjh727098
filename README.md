@@ -1,4 +1,4 @@
-<div align="center"><p style="font-size:200%">in Wook Jeong- 200%</p>Jin Wook Jeong</div>
+<div align="center"><h1>Jin Wook Jeong</h1></div>
   
 <div align="center"  
      <b><h3>Skills<h3></b> 
