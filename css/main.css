@@ -3,7 +3,7 @@
 /*----------------------------modal---------------------------*/
 .modal_box{
     position: fixed;
-    top: 20%;
+    top: 20%; 
     left: 10%;
     box-shadow: 0 0 5px var(--primary-c);
     padding: 40px;
@@ -12,7 +12,7 @@
     text-align: left;
     border-radius: 15px;
     /* display: none; */
-}
+} 수정
 .modal_tt{
     font-size: 20px;
     margin-bottom: 10px;
