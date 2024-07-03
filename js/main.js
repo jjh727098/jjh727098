@@ -242,7 +242,7 @@ function getCookie(name){
     for(let cookie of cookies){
         if(cookie.indexOf(name) > -1){
             visited = true;
-        } 수정
+        } 
     }
     if(visited){
         popup.style.display = 'none'; 
